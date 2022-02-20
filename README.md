@@ -3,6 +3,10 @@
 # Uploaded Kata1
 # Uploaded Kata2
 # Uploaded Kata3
-# Pending Kata4
-# Pending Kata5
-# Pending Kata6
+# Uploaded Kata4
+# Uploaded Kata5
+# Uploaded Kata6
+# Uploaded Kata7
+# Uploaded Kata8
+# Uploaded Kata9
+# Uploaded Kata10
